@@ -3,7 +3,7 @@ export default function login() {
     <>
       <form>
         <div className="login-header">
-          <h2>Login</h2>
+          <h2>Login fhdkjglsfjlsfmsk</h2>
         </div>
 
         <div className="login-register">
